@@ -2,7 +2,7 @@
 /**
  * 第四题
  * 在主窗体中显示随鼠标移动的helloworld
- * @author 范庆霞
+ * @author 杨文雅
  */
 import java.awt.Color;
 import java.awt.Graphics;
